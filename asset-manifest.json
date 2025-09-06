@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coltexreact/static/css/main.63c756c6.css",
+    "main.js": "/Coltexreact/static/js/main.34c5cb12.js",
+    "index.html": "/Coltexreact/index.html",
+    "main.63c756c6.css.map": "/Coltexreact/static/css/main.63c756c6.css.map",
+    "main.34c5cb12.js.map": "/Coltexreact/static/js/main.34c5cb12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c756c6.css",
+    "static/js/main.34c5cb12.js"
+  ]
+}
